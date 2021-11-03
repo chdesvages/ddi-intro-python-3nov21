@@ -1,10 +1,10 @@
 # Introduction to Python
 
-[SESSION TITLE]
+DDI session - 3rd November 2021
 
 Click the "launch binder" button below to launch the interactive notebook.
 
-[BINDER LINK]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chdesvages/ddi-intro-python-3nov21/HEAD?labpath=presentation.ipynb)
 
 ## Learn more...
 
